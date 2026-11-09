@@ -44,6 +44,7 @@ Alternatively, put the folder in a project's `.agents/skills/gauntlet-loop` dire
 
 ### Other hosts
 
+- **ChatGPT:** On eligible accounts, open **Plugins → Skills → Create → Upload from your computer** and follow [OpenAI's skill upload guidance](https://help.openai.com/en/articles/20001066-skills-in-chatgpt). Include the complete skill and its supporting files; availability and accepted upload formats vary.
 - **Claude Code:** Place the complete folder at `~/.claude/skills/gauntlet-loop` for personal use, or `.claude/skills/gauntlet-loop` inside a project. See the [Claude Code skills guide](https://code.claude.com/docs/en/skills).
 - **OpenClaw:** Place the complete folder at `<workspace>/skills/gauntlet-loop`, or use another [documented skill location](https://docs.openclaw.ai/tools/skills).
 - **Other Agent Skills hosts:** Follow the host's installation instructions and keep the folder's internal structure intact. Skill availability, subagents, tools, and invocation syntax vary by host.
