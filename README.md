@@ -23,7 +23,7 @@ The repository is an [Agent Skills](https://agentskills.io/specification) folder
 
 ### Codex
 
-On this repository's GitHub page, select **Code** and copy the HTTPS URL. To install for your user account, run this in a macOS or Linux shell and paste the URL when prompted:
+On this repository's GitHub page, select **Code**, select **HTTPS**, and copy the URL. To install for your user account, run this in a macOS or Linux shell and paste the URL when prompted:
 
 ```bash
 mkdir -p ~/.agents/skills
